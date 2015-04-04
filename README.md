@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-$ git clone git@github.com:ButuzGOL/js-lib-skeleton.git your-name
+$ git clone git@github.com:ButuzGOL/js-lib-skeleton.git name && cd $_ && rm -rf .git
 ```
 
 ## License
@@ -11,12 +11,12 @@ $ git clone git@github.com:ButuzGOL/js-lib-skeleton.git your-name
 MIT © [ButuzGOL](https://butuzgol.github.io)
 
 <!-- 
-# ... [![Build Status](https://travis-ci.org/ButuzGOL/...svg?branch=master)](https://travis-ci.org/ButuzGOL/...)
+# ... [![Build Status](https://travis-ci.org/ButuzGOL/....svg?branch=master)](https://travis-ci.org/ButuzGOL/...)
 
 ## Install
 
 ```sh
-$ npm install --save make-url
+$ npm install --save ...
 ```
 
 ## Usage
