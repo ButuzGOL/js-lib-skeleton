@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-$ git clone git@github.com:ButuzGOL/js-lib-skeleton.git ...
+$ git clone git@github.com:ButuzGOL/js-lib-skeleton.git your-name
 ```
 
 ## License
