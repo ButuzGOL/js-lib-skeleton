@@ -10,10 +10,13 @@
     "url": "https://butuzgol.github.io"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.4.4"
   },
   "scripts": {
     "test": "mocha"
+  },
+  "bin": {
+    "...": "./index.js"
   },
   "files": [
     "index.js"
